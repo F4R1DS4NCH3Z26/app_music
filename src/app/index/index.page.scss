@@ -1,0 +1,172 @@
+.slide_icon {
+    font-size: 25px;
+    color: green;
+  }
+  
+  .my-favorite-text-color {
+    color: green;
+  
+  }
+  ion-content {
+    --background: var(--ion-color-light);
+    --color: #201a1a;
+
+  }
+
+  
+  p {
+    margin: 10px;
+    text-align: justify;
+    font-family: "Segoe UI";
+  }
+  
+  div {
+    font-family: "Segoe UI";
+    margin: 5px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .title-revuelto {
+    color: orangered;
+    font-family: "Segoe UI";
+    margin: 0;
+  }
+  
+  .icon-revuelto {
+    color: orangered;
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  .icon-urus {
+    color: var(--color-urus);
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  .title-urus {
+    color: var(--color-urus);
+    font-family: "Segoe UI";
+    margin: 0;
+  }
+  
+  .icon-urus-p {
+    color: var(--color-urus-p);
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  .title-urus-p {
+    color: var(--color-urus-p);
+    font-family: "Segoe UI";
+    margin: 0;
+  }
+  
+  .icon-huracan {
+    color: var(--color-huracan-str);
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  .title-huracan {
+    color: rgb(74, 70, 26);
+    font-family: "Segoe UI";
+    margin: 0;
+  }
+  
+  .icon-huracan-sto {
+    color: rgb(241, 96, 0);
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  .title-huracan-sto {
+    color: rgb(7, 206, 228);
+    font-family: "Segoe UI";
+    margin: 0;
+  }
+
+  .title-green {
+    color: var(--ion-color-success);
+    font-family: "Segoe UI";
+    margin: 0;
+  }
+  
+  section{
+  
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+
+  }
+  
+  .section-revuelto {
+    border: 5px solid orangered; 
+  }
+  
+  .section-urus {
+    border: 5px solid rgb(14, 12, 11); 
+    
+  }
+  
+  .section-urus-p {
+    border: 5px solid rgb(190, 176, 22); 
+    
+  }
+  
+  .section-huracan-sterrato {
+    border: 5px solid rgb(74, 70, 26); 
+  }
+
+  .section-huracan-green {
+    border: 5px solid;
+    border-color: var(--ion-color-success);
+  }
+  
+  .section-huracan-sto {
+    border-top: 5px solid var(--ion-color-secondary);
+    border-bottom:5px solid var(--ion-color-secondary);
+    border-left: 5px solid orangered;
+    border-right: 5px solid orangered;
+    
+  }
+  
+  
+  .icon-huracan-green {
+    color: var(--ion-color-success);
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+
+  .close-icon {
+    font-size: 40px;
+    color: #000000;
+    margin-right: 20px;
+    margin-top: 20px;
+    z-index: 100;
+    right: 0;
+    position: absolute;
+  }
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
