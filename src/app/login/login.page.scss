@@ -1,0 +1,44 @@
+h1 {
+    color: var(--ion-color-tertiary-shade);
+    text-anchor: start;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+}
+ion-item {
+    border-radius: 15px;
+
+}
+
+ion-card {
+    border-radius: 15px;
+    margin: 20%;
+    padding-top: 10%;
+
+}
+
+ion-input {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.icon-class-login {
+    font-size: 10pc;
+    color: var(--ion-color-tertiary-shade);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+ion-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 5%;
+    font-weight: bold;
+    font-size: 50px;
+}
+
