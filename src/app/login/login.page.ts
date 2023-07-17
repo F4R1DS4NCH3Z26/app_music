@@ -80,4 +80,8 @@ export class LoginPage implements OnInit {
     })
     
   }
+
+  goToRegister() {
+    this.navCtlr.navigateForward("/register")
+  }
 }

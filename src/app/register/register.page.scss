@@ -5,6 +5,7 @@ h1 {
     font-weight: bold;
 
 }
+
 ion-item {
     border-radius: 15px;
 
@@ -20,7 +21,8 @@ ion-card {
 ion-input {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.icon-class-login {
+
+.icon-class-register {
     font-size: 10pc;
     color: var(--ion-color-tertiary-shade);
     display: flex;
@@ -42,7 +44,4 @@ ion-button {
     font-size: 50px;
 }
 
-.button-register{
-    margin: 20%;
-}
 

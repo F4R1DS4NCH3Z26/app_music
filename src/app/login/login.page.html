@@ -7,7 +7,7 @@
 <ion-content class="ion-justify-content-center">
   <ion-card class="ion-margin-horizontal" color="light">
     <ion-card-content>
-      <h2 class="title">Sign up</h2>
+      <h2 class="title">LOGIN</h2>
       <div class="icon-class-login">
         <ion-icon name="aperture-outline"></ion-icon>
       </div>
@@ -32,7 +32,7 @@
               *ngIf="loginForm.get('email')?.hasError(validation.type) && 
                     loginForm.get('email')?.dirty"
             >
-                <ion-badge color="danger">{{validation.message}}</ion-badge>
+              <ion-badge color="danger">{{validation.message}}</ion-badge>
             </h2>
           </ng-container>
         </div>
@@ -61,9 +61,17 @@
           class="ion-margin-bottom ion-border"
           type="submit"
           [disabled]="!loginForm.valid"
-          >Login</ion-button
+          >Ingresar</ion-button
         >
       </form>
     </ion-card-content>
   </ion-card>
+
+  <ion-button 
+    class="button-register" 
+    type="submit" 
+    color="success"
+    (click)="goToRegister()">
+    Sig up
+  </ion-button>
 </ion-content>

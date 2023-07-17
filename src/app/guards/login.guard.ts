@@ -12,7 +12,10 @@ import { NavController } from '@ionic/angular';
   providedIn: 'root',
 })
 export class LoginGuard implements CanActivate {
-  constructor(private storage: Storage, private navCtrl: NavController) {}
+  constructor(
+    private storage: Storage, 
+    private navCtrl: NavController
+    ) {}
 
   async canActivate() {
     const isUserLoggedIn = await this.storage.get('isUserLoggedIn');
