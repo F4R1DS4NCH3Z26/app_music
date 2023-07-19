@@ -1,0 +1,127 @@
+{
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        "followers": {
+          "href": null,
+          "total": 2731990
+        },
+        "genres": [
+          "canadian electronic",
+          "edm",
+          "electro house",
+          "pop dance",
+          "progressive house"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+        "id": "2CIMQHirSU0MQqyYHq0eOx",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebc5ceb05f152103b2b70d3b07",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174c5ceb05f152103b2b70d3b07",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178c5ceb05f152103b2b70d3b07",
+            "width": 160
+          }
+        ],
+        "name": "deadmau5",
+        "popularity": 66,
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJAAsAMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAFBgQHAQIDAAj/xABFEAACAQMCAwQHBAYHCAMAAAABAgMABBEFIQYSMQcTQVEUImFxgZGhMrGywRUjJkJS8GJ0gqLR4fEWJCUzVGRywjZzkv/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAsEQACAgIABAQFBQEAAAAAAAAAAQIRAyEEEjFBEyIyYSNRcbHBFCRikaFS/9oADAMBAAIRAxEAPwBcsneQFpCpYMR6vlmgWv6Z6NfW95bIBHJOokH8L5G/uNMSIlt3luHDSxOysccpJB64+XzrtqDW7aBKjKDKZI25yOhDjFDlzLS62Pw8NNty6ULDnOs6nnqLqTP/AOjVldng/ZiP+sS/iqsXbHEWqDzu5PxGrR7PB+zKf1iX8VSHrYHF74dDCRWpFdCK1xTzlmnLXuWt8VnFQhpjFcbu5htIWmuZUiiUZLOcAVJxQjiXRINd0ySzucgH1kYHHK3gaouNXsirxdoTByuqW3qAsfX8B5UVs9RtbyFJYLmJldeYAMM4qrrPsxv3uwl/PDHbDq8W7N8DTVpfZ1oti6yN38zDfDuQp94HWqTbHZIYo9xq068gvoO/hZSrk4BPkcVMAB6AfCgUfC+iRIVj06FRnI5cgj3YrY6GkIzZajfWx8P1xkHyfNEJai3phllBOD40uBAOGr+0kUN6KJYsMM7DPL9CKgcRcR3PC8cXpeoRXrSZ5Ie4CuwHU5BAAqHp3FltrNnrDpbvHJPBnul9YhwuDnyyMY88Hyqmxkcbq+xy7I8Dh+4I/wCoOflQ/tSeNZ9NRm9bLtyjy2FEOyAluH7leXYXHXPXYeFRu09iLjSwCesn3ChfoHY18cZOC2MnDWmtylf1CjceW1GCvo86eEUp6fwtUDhJf2c0v+qx/hFFLm3M0kPrsqKW5lH722N6JdDPP1uzpy75rPLXOIsrCKX7S9D/ABCu5FWLKJ1TibVrmUm5vJCrHn5ebo3sz76kalfiaKyaG5OJHVTGp2O4OTQ/XplaKJomO2Rht85oZaO0t/bkLgIygDyrIoJpM78skk3HrYwOP2g1Q/8AdSfiNWn2ef8Axpf6zL+KqvZc8QamB/1Un4jVo9no/Zpf6xL+KmY/WZeKXwEMRrUCumKxinnMo1xWcVsBWcVCjTFex41vgVq1QhzIA8KwSB5VpK4UdaSdf7QtL053htee8nQ4YRHCKfLm8fhmqbCUXLoO5YVyeQY61U8nalfGQlNOtwvkZGJ+f+VFdL7RrKfI1CBrYD99X5wPhgH5A1LQfgyQM7VIw+uWbMrKO4wGx9r1vD3Z+tReF7CRrDW5YrxreKOOIMwAJOefH1H1qZ2k3UF5PpFxbypJC8T8rqcg+sK7cEpFNpHE9tKynntoyBzbkASZ/KlP1m6KrAFux5f+AXRxgm4/IUP7UmlOpabGkeUCSNzHx3AIor2PrjQLkeIuDn5Ch3aoCb7SQNvVlO39mil6BGJfuRw4QLHh3TuZQpECjAIPQY8KOEbigfB3q6JbxYQd2q4C+TKGG3h9r86PkesKNdDNkXnZwuIywBXaQdDWIpBImQMEbMPI13YVwmQo/eoPDDKPEedWAj5sRJZ7gCQnORnNFLeBYb7kXfEq71CgJa9TAyOYZFT4jnU2PXMi4+YrHOTs9HghFRb9/wAB1o8a5qjDr6VL+I1ZHZ+McMp/WJfxVX0gzq+pnzu5fxGnvhK6h0/gpru5blihkmdj5AGixPzsycWvgJIZJJQg3qKmqWkj8kd1Az/wrKpP0NURxTxZqHENy/eyNHaZ/V2wPqgeGfM++gBYE5OKfzGFYfmz6fEwJroHBr570HjDVtGlQR3byW46wyeup92dx8CKtrhfi6x11REjCO7Chmh5s523Knxx8x9TOYCWJroNeRWkh2rmHNaythcmisXRWfalxPJEf0JYyFWZc3bA74PRPiNz8Kq8k1P128N/q97ds2e9nZh7s7fTFDqBuzZFUqM5r2axXqosn6dcpE6JcorwlvEfZPnVg8KwRpDxBKkaqVtEiyrYUBxIc48clVA99VgKsPgV2uNE12J1RkewVWz5oXC/Qn5VVbsLm8jiM3ZH6+i3rjo04Px5FzQvtURn1TSk7zu07qU83xXP5VK7GJpBYX1s8Z5TKWWQYIJAGRn+etRO2AMl9pRxt3c33rRP0C4v9xY18Es/6NhWdw0vo0Zb1CpGBjfwOBy7imcj1hS1wi2Y7PkaUxNajB5spkhDjpnOQ5+dNGBn3Ua6GbKvO2aEbVqwrqRWMVYuj5nVu6nBX7WxB+FErBRJe8w6CRPvFDCCVRvEYBonpr92txKCPV9YA+JA2rDk6Wemwt9BnZM6pqR/7uX8Rohr8jxdkrqmcSXpVvd3mfvApXseIO8klmkhEks7tIyocbsSTgU62FunEnZneWlsG7wSyFAw35wwYDPj/rR41UnZi4iSeOJTJO9YrZgQTkYPka1pxlPVIs7mW1uYp4GZZI2DKynBB99R6yDjpUIXxwPxGvEGl88nKt3DhZ1XoT4N7j99Mc26EeYxVE9nuqtpfE1sSx7q5PcSDw9bYfXFXDq2v6VpAxqN7HG/UIMs3yH51diZR2UBeQG2up4G6xSMh+BxUejvGMtjc8QXV1p0pkt7giQZXBDEesPn99DILdJULNMq46jBOKp6G3qyLXqlXNq0Kh1PPGf3gMY99RhUInZ4VYnAsTJomsAJmUWSTr6o3GZARk9CQ2x+NINpAbidUA2zk+6n/hi4S3uNZtyFV3sA0ajLbLkMB7eVmoW90HXlYd7GyTo15Ko2iu1b4FAGod2sM7X8kbsT3LryDHQMoOfbnH0r3Zrr1voHDGp315G8tsZ1Rkj+0XYKPHbG/wBPGteNLyHWra11K3jkX0iCNuWQDIwWXwP9E1WR1EzzTWSL90NXCEsU+maPcDkZkhEZPLlhytyHJ8P+YMg565p05fXO3UVX3AMzXHDCwn1prS4kTBDYXIJXwwdwPYKsRcNhl+ywyD7KanorNHzM5kbVrjau7Lsa15cgVLE0fNFtD306IrBRsTt1qXZwvbXkSPgrLKFH9L1sGoNhzNKkYOOcgc3kKN2kAlvIXH2Ip1VPYcjNYZyqVPoepglKHMls46pIllxFfSwDl5JpEVV9XB5jtt0GKtLszAbg63blwXmlLY8TzH/Cqk1rmPEd/wAx2N3Lj4Mat7syH7HWv/2y/jNOXU52VfDEbtL4OktrmXWdNj5raQ81xGg3jbxYD+E+PlVdEe2vqGVMg7bGkPiXs3sNSZ7jTXFjcNuVAzET7vD4fKjUjO4lMV6mu/7PuI7NsCyFwv8AFBIGHyOD9KhJwfxCzEfoe7GNyWTAHzorQD0A0YowZSQw3BHhXaW4lnJaZi7tuXY5YnzJ8anavoV7o7pHfxGNmXI3BB9xG1DhjpUtMFST2jGD1HwrKsVORT9wzwxaegW91qNs1zLdH9Rb94UBXOMnGDv4YJrbiXhWxFjcTWEMlrd20feSW7MWVlxvyk7gjc4PkaDxFdCP1MeblFC1M2pBrSKJpbuQYjRF3c9fn1pi0Ps01i9kDakFsYPHmIZz7gPzpPsrqayvIrm2fkmhcOjDwI3r6g010vbOC7jHqzRrIMe0Zo+hoSroVDx3oVnw9baHa2CFQZJOeRt3kPq7sfGlW+upbK6huYDyyoSObzBBBHxBNWJ20oVbROXb9ZL9y0mW1gmo6dqYl5jNBbLLEVGxwTnJ9350t+pDYLysxpEbJwHrwcEqbm3Uf0WDD7wTRe9trX/YvQnefumcSc36zG3etj7zQvR5kk4C4gifl5hLbMo9odVz8vuNE7mGM8H6JzIrcwlXfryiRyNveT/Iocr0LyrUa/6QT7KbuCG51axlZllE8c4yQCyqwB6kfxVbFkuLZFPWPKH+ySPyqjOBJ57fi6+t1lmi9IgfmZPtcoAbPyzTZ2dyc+karNf6pcWiPfspkluAq5I9vjTUFPHzbLNYeHmNq1A2obDoNt3cZN3ezHkwHNy24+FT7S2jtbaOGEEIgwMsWPzNXYl412Pl+1ci5jGOppk0YqptUIJc3S5P9vFLEUiO5P2eVcqaNcP30fptlEX9YXKbY65cVlywbO3gyxSas46zHz69fsgyPS5B/fNW92YqRwZZ5/jl/GaqLU5CNUv+T966l/EauLs1H7GWG3XvD/fNE3RnnXKMZWsctdSK9y1VieUjmOhnEBeLTSUBIaVUYdNjn5D+feb5a0eMOjRuoZGGCp6HxqWKz4nODiivu0DTbH/ZkvFMWdAsgVhupOfrsRn4eFU2w9c1c3HfB+p38UZ097RbXJJZ7hlPQbFSMDGPA0lJwFeCTFzfWcRzg8rl8ezYY+tFCSits5uGccKam6YycFcQ2p0+1UXMEN7b4i7qWTHedeUgE7+WAB1qXxLqczrdRqvpGo3MRjgtrf13HNnJPL4b+/yO9DNO4G0qJka6uJrog78o5EIB6eJOR9/sposdPgtpRbadDDaKT65jA3x4sfHx6+7oSAiWbGnUTBPiMPiXDZXl1wVNo/Dt1qOtZSUIO6hTcBj0LP8A+o9m/gbu4Qt2g4Y0uKQEOtrGDn/xFVzxlqVhr2v6fos9xFa2Ebh7ueUhQoHVcnpkjl8N8+yrXsLu0ubcPZzwyxjYGJgwHyp6batnY4ZynFykVv22x5/QXtmlH91aUNFhWW31dWid2FkwUKeoJ6e/HT2gDxp57ZojJHohXG08v4Vqv9P1C2spbuCZiWmtmRBg8pPXBPlsd/A4PhQ83nQ+OSKm4P5CrbTSIssasRHOAr48cEEfUVYD4XgrRDIeb9bOBtjH6w/z8aTrS2MuganKpz6O0Uuw3GW5c5z7frTK9yJ+CNGVD68VzKrY6ZLc350WbaJl6RX8o/cBabHLacR6dP37wJdzlBNG2GRS5jY5+e9E5tHzwhfahLcTlrbUFiWPvMxtkkFiPE7daHX9up0FLlQeeK7cspVjkcxGQegG3Tr40yqmOybUMcpAvUI5d9uYY+hpjZoitsuiw3s7c+HdJ91dgNq4aWc6XZnxMCfhFSRQWJcdnyREfWPtGKI6BGza5pzAer6XEP7y0NRihyPLFE+GnI1/TFBODeRfjFNZcK0mdNUb/iVyOmbmU/3jV3dm4xwZp/ub8Rqno7KO7v8AU5ZpGVYDI6qpwZDzE4HwDH4Vc3AMfdcJaenXlDr8nNZsjpGuKvQw17rWcVkDFJ5g+Q8BWcZr1auwRSWOFAyT5Cr5ieGQNY1Kw0ezkn1S4jgt+hD/ALx9g6k+6kWPijhrUZHeO7NqxJwtzGQPfnfy6dfzQ+KdWm4g1S51GXKoDywxE5Cx+A/M++ghhJtmyDkdKa8MZLZwuKxYs87qn8y5Rf6RGDLJrFry8pbmV8nYeQ3+H+tL2uccWNlby2uinvJZMc10ykbbbAezb371XkFpK0Pfj91wAD49SfuHzreHT+8KZzueuaGPD44O7MkeDw43cpWc5ZZbyR1jBPMeZyfE+f8AlRPT2u9CX02wvri2nB5WMLYz7D4Eew1IgsUij5EGSdya9qNqItNkaR1DfaG/jTHkV0hv6lOSjEK6hxemuR6b/tBaRNcxBl9LQ4DoenMvQEHxFC7uFZbmV9OsTcL3XVJsCME4zjxznFAZnMSwBSGKqCfEDO/+dOPDQ1KSec3kcSw+gyIrgDABwOVvMHp8RVvGlPnNuPApz8Rt3/gH0tIjoWtDHr9wvIXbwEinGAfIbeFdbFpP0AA23NfqQD/4Cgqs0UvKHaJJl7p2zkAePwo3JH3OhWIZsPJfnmA/d5QAP8amTohuS5cvtJfcnWsTzcK61Cs5VfSCXyGwhDeY2OQegHjQ065dpw0mkR8vo04EkwZcklThSD4DAFF9EkL6NxFZiMsyhpEKoGLEEefl/wCwpdnEkvctKR/u8Eaer0xn/OiRso+lNFBOj2J65to9/wCyKmAY8KTuEmjbhPTLm8vbwfqEB5HO/wBKa7Tu1hCxGQqD1k6mkuWyPH3PkkGpWmTvbahazxcpkimR05umQQRUSukRPeKR1BGK1sxxexo0GZGnuLidJG7qTv8A1cAO2HHIcnxLbAZzvVy8CLjhPT85J5WyT4+sapLh0c73AljSWBEErI37zgnkUe0k0Z0jjrX9FIt2YS28JAeKWPHITuRkDbfPWs2WDkqRuxTSlbL0r1U9edqesXEj+hW1tDGfsgnmI+6t9N7UdVtuVdQtIrtc7snqms/g5OppU4FwUC4z1ODSeHL65uGwDEY0AO7O2wA/npULQ+PtF1eaO25nt7mRgqxSjBLHoB4Uh9tGrNPq8GjqxEdqvePg7NIf8APrUxwk5pMDNNQg2JumoGgaNsE8vy/nP0qRawd7bsCNyKiaC+bhkfocUS0RcanNG5PIFY/4U/K3Gzy+duPN7bN4YGitQZUIAUso/P6VtZRohXBBIxj25FS9ezbaRIXwWZORT5eGKEaGztGp5gxAxgnHTwpUW5QchEbyYnP3DTwvkGN2jJHUAfmDQXiFVjWKNmaWdznLdAPZjajMFyLlgEdlwcAgYx5jelXW5A9+5VieXYbk4+Jq+Hi+fZfBxk8m+xpasncK0vrKswDj+iRv9BTrwhc5srpZHxJBbyqeYZB9jDyI29+Pim2gRrCTbLowbfofDejXB1yY766HMCbiydOVhkMwGMEe45rVNWvodvhpVJo4WFvDd6Rq/OrsYoFljIH2Crdc+44x7c+Fc1kuLjQrSFgSIL1gMDpkCpmgRZ0/XRgnNkcZYbb5+e3xHN51rbNP+hLJ7dYl72d+YtvzFf8AID5UEn9xmVO4fVGNIkjN9dCSLvFkWTIVSWwVxsucHbz9/hWlvCs0OoFlBaKxilU+RDL/AI1CgnNrdyFsAlWGASAMgg/DejGmxrNBqzdQmlEjbPRlNE9Kx62W3wjOi9n+ngyIrCNdifaKaklWQtyMGI8ulIHD6xDgfTnZPW9GbcpzDZhT7bCIpzRJyAjyxmsDl5mbXBKNnyVW8O8iD+kK0rpB/wA6Mf0hXVOKuowaBb3Dgy2cAmm7wKMycvdjB9fGdz5dcYqSuq20Gh6xp8+Xur2aKSOQDIODkkmglpcta3FtcKxBjbO3XHj9M0TGmw6hZX2qtfRxNC45Ldz68mf9aTKu5shfYHTyyXupGUqkXeMoKxDlA8NhU6eK3h9LUSTNcJIBCMDkK+OfbQ1CUuwpU8ysM17UbotcuUPjvUabdFqUYRtj7xvriHQ9J0T9GwwXNlGjvcREEtkYGMDI8z7aS9SR1ke2vEkhuRhv1pyTkeJqA17PLL3k0rO2AMsc9Oldb+6udRu+/ky0jKAT7qkMbjpis+SGSGtbOmkBob9UcYLEAZ99FoHePVLnlOyn6Hc/dQa1ZvSrTmXBWTGfOi9q5XUblvJwmSeu2fyNDkVtv2ORni22/Y9xXcYgtrUEZyWfHj/PWuGkQsbEOOUfrCDnH1zUDV7jvtQcoQUTZRjbFSNMuVkR4pAAvNzbe0YP3CqUOXEkiLE44El9Q3KHsLiOR0xCxByMEEUuauqrdyAjG5xjGMUWjvJBDLYzPJLneHk8fZvS/cv3kxZ8g9DkdDV4otPZXC43GTbPW8vIpQqWDDHWi/CvKdZCY5iYpBHn91iP5H85oTbKGyDzjP76+HvrMJ9HvYiBz8rg486c1aZvg0pjHoTf7hrY5gpNg2WIJwuRtgeZxv4Y9tRLWGSPSbJyVCyXTFSD02x+X1qXpKEw6vyP3Z9AkYsoByNvV38Dke3asWncx6FFI1r6QY5iAjEhQTy+Xj1+fspE9f2h3ESUVB+/5Bl0P95bAzkNviphmkt1nFvKsfPZ8kgJxzKeUEe2odz6txspUett5V3uJpIZJe6KgPbLEwIG4OMge3amvsOXctvQG5+ALWBkPK1rOMg+W9Oei3MVzp0LxOxwoU8wPUCq/wCEdVEnDaaaltcM0SSoZFT1QSuevurRe0ddFSKyubN5T3atzo3XI9tcp8zyNJHUcU8SZ//Z",
+        "type": "artist",
+        "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        },
+        "followers": {
+          "href": null,
+          "total": 573699
+        },
+        "genres": [
+          "alternative dance",
+          "indietronica",
+          "new rave"
+        ],
+        "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+        "id": "57dN52uHvrHOxijzpIgu3E",
+        "images": [
+          {
+            "height": 693,
+            "url": "https://i.scdn.co/image/2f0c6c465a83cd196e651e3d4e7625ba799a6f60",
+            "width": 1000
+          },
+          {
+            "height": 444,
+            "url": "https://i.scdn.co/image/4e3e13c8b993bde9898e49509fb9ae121636e05f",
+            "width": 640
+          },
+          {
+            "height": 139,
+            "url": "https://i.scdn.co/image/dc68dd24b45b74ecce9d4ed486423673d683ced3",
+            "width": 200
+          },
+          {
+            "height": 44,
+            "url": "https://i.scdn.co/image/4e55ca05d4f336a2fa0e3062a7ec9778a201e8bc",
+            "width": 63
+          }
+        ],
+        "name": "Ratatat",
+        "popularity": 66,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/RatatatMembers.jpg",
+        "type": "artist",
+        "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        "followers": {
+          "href": null,
+          "total": 21893095
+        },
+        "genres": [
+          "dance pop",
+          "edm",
+          "pop",
+          "pop dance",
+          "pop rap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+        "id": "1vCWHaC5f2uS3yhpwWbIA6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb09bf4814c6585e1f69dfeef7",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517409bf4814c6585e1f69dfeef7",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17809bf4814c6585e1f69dfeef7",
+            "width": 160
+          }
+        ],
+        "name": "Avicii",
+        "popularity": 79,
+        "image": "data:image/jpeg;base64,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",
+        "type": "artist",
+        "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+      }
+    ]
+  }

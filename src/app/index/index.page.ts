@@ -78,7 +78,7 @@ export class IndexPage implements OnInit {
 
   finish() {
     this.storage.set("introShow", true)
-    this.route.navigateByUrl("/home")
+    this.route.navigateByUrl("/menu/home")
 
   }
 

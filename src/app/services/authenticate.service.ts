@@ -19,7 +19,7 @@ export class AuthenticateService {
   }
 
   registerUser(userData:any){
-    userData.password = btoa(userData.password);
+    // userData.password = btoa(userData.password);
     return this.storage.set("user", userData)
   }
 }

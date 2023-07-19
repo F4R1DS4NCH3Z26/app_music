@@ -4,14 +4,14 @@ import { IntroGuard } from './guards/intro.guard';
 import { LoginGuard } from './guards/login.guard';
 
 const routes: Routes = [
-  {
-    path: 'home',
-    loadChildren: () => import('./home/home.module').then( m => m.HomePageModule), 
-    canActivate: [LoginGuard]
-  },
+  // {
+  //   path: 'home',
+  //   loadChildren: () => import('./home/home.module').then( m => m.HomePageModule), 
+  //   canActivate: [LoginGuard]
+  // },
   {
     path: '',
-    redirectTo: 'home', // Es pa corroborar porque te salían 20.
+    redirectTo: 'menu/home', 
     pathMatch: 'full'
   },
   {
@@ -28,7 +28,11 @@ const routes: Routes = [
   },
   {
     path: 'menu',
-    loadChildren: () => import('./menu/menu.module').then( m => m.MenuPageModule)
+    loadChildren: () => import('./menu/menu.module').then( m => m.MenuPageModule), canActivate: [IntroGuard, LoginGuard]
+  },
+  {
+    path: 'songs-modal',
+    loadChildren: () => import('./songs-modal/songs-modal.module').then( m => m.SongsModalPageModule)
   },
 ];
 
